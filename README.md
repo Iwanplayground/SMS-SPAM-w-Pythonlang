@@ -1,2 +1,2 @@
 # SMS-SPAM-w-Pythonlang
--
+SMS Spam merupakan pesan singkat yang dikirimkan kepada pengguna, tidak diketahui siapa pengirimnya. Biasanya, pesan tersebut berisi penawaran sesuatu, atau bahkan bentuk dari modus penipuan. Tentunya hal ini sangat menggangu, disini saya akan melakukan pembangunan model sederhana dari beberapa algoritma untuk melakukan filter mana saja sms yang merupakan <b>SPAM atau sms biasa</b>.
